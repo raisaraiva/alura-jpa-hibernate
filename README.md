@@ -1,0 +1,1 @@
+Versão final do projeto do Curso de Persistência com JPA: introdução ao Hibernate.
